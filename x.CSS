@@ -1,0 +1,29 @@
+.dic {
+  color: beige;
+}
+
+.heading {
+  color: black;
+  background-color: bisque;
+  border-style: dotted;
+  text-align: center;
+}
+
+.d1 {
+  color: black;
+  background-color: rgb(243, 104, 146);
+  text-align: center;
+  border: border-style: inset;
+}
+
+.d2 {
+  color: rgb(63, 24, 24);
+  background-color: rgb(202, 244, 117);
+  text-align: center
+}
+
+.d3 {
+  color: black;
+  background-color: rgb(91, 237, 169);
+  border-style: inset;
+}
